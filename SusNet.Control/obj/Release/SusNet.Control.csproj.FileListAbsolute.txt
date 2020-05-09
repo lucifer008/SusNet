@@ -1,0 +1,5 @@
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\bin\Release\SusNet.Control.dll
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\bin\Release\SusNet.Control.pdb
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\obj\Release\SusNet.Control.csprojResolveAssemblyReference.cache
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\obj\Release\SusNet.Control.dll
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\obj\Release\SusNet.Control.pdb

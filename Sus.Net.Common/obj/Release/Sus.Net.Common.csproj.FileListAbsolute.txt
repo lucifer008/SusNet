@@ -1,0 +1,10 @@
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\Sus.Net.Common.dll
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\Sus.Net.Common.pdb
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\log4net.dll
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\Newtonsoft.Json.dll
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\SusNet2.Common.dll
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\log4net.xml
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\bin\Release\Newtonsoft.Json.xml
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\obj\Release\Sus.Net.Common.csprojResolveAssemblyReference.cache
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\obj\Release\Sus.Net.Common.dll
+E:\suspe-source\SuspeNet\SusNet\Sus.Net.Common\obj\Release\Sus.Net.Common.pdb

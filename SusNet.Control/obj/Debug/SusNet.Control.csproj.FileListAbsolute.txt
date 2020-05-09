@@ -1,0 +1,4 @@
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\bin\Debug\SusNet.Control.dll
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\bin\Debug\SusNet.Control.pdb
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\obj\Debug\SusNet.Control.dll
+E:\suspe-source\SuspeNet\SusNet\SusNet.Control\obj\Debug\SusNet.Control.pdb

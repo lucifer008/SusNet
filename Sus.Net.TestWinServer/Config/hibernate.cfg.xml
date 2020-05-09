@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+  <session-factory name="NHibernate.Test">
+    <property name="show_sql">true</property>
+    <property name="hbm2ddl.auto">none</property>
+    <property name="current_session_context_class">thread_static</property>
+
+    <property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</property>
+    <property name="connection.connection_string">
+      Data Source=DESKTOP-1\SQL2014;Initial Catalog=SyspeSysV2.0;Persist Security Info=True;User ID=sa;Password=sa
+    </property>
+    <!--<property name="connection.connection_string">
+      Data Source=  DESKTOP-1\SQL2014;Initial Catalog=SyspeSysV2.0;Persist Security Info=True;User ID=sa;Password=sa
+    </property>-->
+
+    <property name="dialect">NHibernate.Dialect.MsSql2008Dialect</property>
+    <mapping assembly="SuspeSys.Dao"/>
+    <!--<mapping assembly="SuspeSys.Domain"/>-->
+  </session-factory>
+</hibernate-configuration>
